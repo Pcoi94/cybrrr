@@ -1,13 +1,13 @@
 {
   "tips": [
-    "There is a whitelist sytem, don't try to crack it!",
-    "is the panel usefull?",
-    "Add custom commands in minutes."
+    "info: There is a whitelist sytem, don't try to crack it!",
+    "info: Add custom commands in minutes.",
+    "question: Is the panel usefull?"
     
   ],
   
   "whitelistedGameId": [
-      4930674854
+      0
     
   ]
 }
