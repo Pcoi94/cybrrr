@@ -1,4 +1,4 @@
-return {
+info = {
   ["tips"] = {
     "hello",
     "hello2",
