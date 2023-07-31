@@ -1,4 +1,4 @@
-return {
+{
   tips = {
     [1] = "hello",
     [2] = "hello2",
