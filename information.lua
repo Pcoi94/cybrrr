@@ -1,7 +1,8 @@
 return {
   tips = {
-    "hello",
-    "hello2",
-    "hello3",
-  },
+    [1] = "hello",
+    [2] = "hello2",
+    [3] = "hello3",
+    
+  }
 }
