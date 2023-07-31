@@ -1,8 +1,8 @@
-{
+return {
   ["tips"] = {
-    ["_1"] = "hello",
-    ["_2"] = "hello2",
-    ["_3"] = "hello3",
+    "hello",
+    "hello2",
+    "hello3",
     
   },
 }
